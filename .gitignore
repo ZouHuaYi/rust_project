@@ -1,0 +1,11 @@
+# local env files
+*/target/
+.history/
+
+# Log files
+
+
+# Editor directories and files
+.idea/
+.vscode/
+
